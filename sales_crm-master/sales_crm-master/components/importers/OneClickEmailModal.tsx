@@ -67,7 +67,7 @@ Looking forward to your reply.
 Warm regards,
 OneRoot Exports Team
 International Trade & Exports Division
-OneRoot Farm | Phone: +91 96067 48773 | Email: export@oneroot.farm | Web: https://oneroot.farm`);
+OneRoot Farm | Phone: +91 96067 48773 | Email: exports@oneroot.farm | Web: https://oneroot.farm`);
     }
   }, [importer, open]);
 
