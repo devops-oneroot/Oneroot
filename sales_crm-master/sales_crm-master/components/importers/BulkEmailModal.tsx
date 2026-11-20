@@ -163,7 +163,7 @@ export function BulkEmailModal({
                   Ready to send to {validImporters.length} buyer{validImporters.length !== 1 ? "s" : ""}
                 </span>
                 <p className="text-xs text-violet-700 mt-0.5">
-                  Sender: <span className="font-semibold">vasanth@oneroot.farm</span> (via Google Workspace SMTP)
+                  Sender: <span className="font-semibold">exports@oneroot.farm</span> (via Google Workspace SMTP)
                 </p>
               </div>
               {invalidCount > 0 && (

@@ -449,7 +449,7 @@ export function OutreachView({
                       {/* Sent By */}
                       <td className="px-4 py-3 whitespace-nowrap text-slate-600">
                         <p className="font-medium text-slate-800">{email.userName || "OneRoot Sales"}</p>
-                        <p className="text-[10px] text-slate-400">{email.senderEmail || "vasanth@oneroot.farm"}</p>
+                        <p className="text-[10px] text-slate-400">{email.senderEmail || "exports@oneroot.farm"}</p>
                       </td>
 
                       {/* Sent At */}
@@ -523,7 +523,7 @@ export function OutreachView({
                   <span className="text-[11px] font-semibold text-slate-500 uppercase">From:</span>
                   <p className="font-bold text-slate-900 mt-0.5">
                     {selectedEmail.senderName ? `${selectedEmail.senderName} ` : ""}
-                    &lt;{selectedEmail.senderEmail || "vasanth@oneroot.farm"}&gt;
+                    &lt;{selectedEmail.senderEmail || "exports@oneroot.farm"}&gt;
                   </p>
                 </div>
                 <div>
